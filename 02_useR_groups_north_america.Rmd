@@ -91,6 +91,11 @@ knit: "bookdown::preview_chapter"
 #### Kansas {-}
 
   * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+  
+  
+#### Louisiana {-}
+
+  * New Orleans: [Tulane University R Fans](https://tulaneuniversityrfans.wordpress.com/)
 
 #### Massachusetts {-}
 
